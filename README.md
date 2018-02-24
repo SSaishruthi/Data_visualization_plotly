@@ -20,3 +20,8 @@ References
 
 - Plotly: https://plot.ly/python/
 - Cufflinks: https://github.com/santosjorge/cufflinks
+
+
+***NOTE****
+
+Plotly interactive graphs are not visible in ipython notebok. To visualize it load in local system
